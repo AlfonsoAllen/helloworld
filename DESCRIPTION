@@ -1,0 +1,10 @@
+Package: helloworld
+Version: 0.1
+Date: 2021-03-25
+Encoding: UTF-8
+Title: Saludo al mundo
+Description: Returns the sentence "Hello World" plus a string argument (x).
+Author: Felix Bross
+Maintainer: Felix Bross <bross.felix94@gmail.com>
+License: GPL-3
+RoxygenNote: 7.1.1
